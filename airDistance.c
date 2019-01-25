@@ -26,7 +26,7 @@ int main() {
   lon1r = lon1/180.0*3.14159265358979;
   lon2r = lon2/180.0*3.14159265358979;
 
-  const int R = 6371; // 单位是km
+  const int R = 6371; 
 
   d = acos(sin(lat1r)*sin(lat2r)+cos(lat1r)*cos(lat2r)*cos(lon1r-lon2r))*R;
 
