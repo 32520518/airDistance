@@ -1,6 +1,7 @@
 # airDistance
-air distance
-hello
-a symbol c program about air distance
+
+air distance\n
+hello\n
+a symbol c program about air distance\n
 
 Author Wencheng Bao 
